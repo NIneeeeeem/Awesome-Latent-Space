@@ -1,6 +1,6 @@
 <div align="center">
     <h1 style="display: inline-flex; align-items: center;">
-        <img src="img/other/icon.png" alt="icon" style="width: 32px; height: 32px; margin-right: 8px;">
+        <img src="img/static/icon.png" alt="icon" style="width: 32px; height: 32px; margin-right: 8px;">
         Awesome Latent Space
     </h1>
 </div>
@@ -15,7 +15,7 @@
 This repository manually collects works in **latent space**, which will be continuously updated.
 
 
-## 📖News
+## 📖 News
 **[2025/11/30]** We release the initial version!
 
 ## 🌟 Overview
@@ -24,15 +24,16 @@ Here, we classify all the latent space based methods two categories, and sort by
 - [🌟 Overview](#-overview)
 - [🤝 Contributing](#-contributing)
 - [🔥 Methods](#-methods)
-  - [Text-based](#text-based)
-  - [Visual-based](#visual-based)
+  - [LLM-based](#llm-based)
+  - [VLM-based](#vlm-based)
+  - [MAS-based](#mas-based)
 
 
 ## 🤝 Contributing
 We warmly welcome contributions of excellent resources you find via **pull request**. Please follow the instruction in **CONTRIBUTING.md** if you want to make one.
 Additionally, if you want to have any other issue, please add this wechat group.
 
-<img width="200" alt="image" src="img/other/wechat_group.jpg">
+<img width="200" alt="image" src="img/static/wechat_group.jpg">
 
 
 
@@ -43,7 +44,7 @@ Additionally, if you want to have any other issue, please add this wechat group.
 
 
 ## 🔥 Methods
-### Text-based
+### LLM-based
 
 | Date     | Paper Title                                                                                                                                                                                                     | Introduction                                                       | Code                                                                                       |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -70,9 +71,8 @@ Additionally, if you want to have any other issue, please add this wechat group.
 | 2025/10  | [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741)                                                                                                                         | <img width="700" alt="image" src="img/text/2510_ouro.png">         | -                                                                                          |
 | 2025/11  | [CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning](https://arxiv.org/abs/2511.18659)                                                                                                   | <img width="700" alt="image" src="img/text/2511_clara.png">        | [Github](https://github.com/apple/ml-clara)                                                | 
 | 2025/11  | [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://arxiv.org/abs/2511.08577)                                                                                             | <img width="700" alt="image" src="img/text/2511_tah.png">          | [Github](https://github.com/apple/ml-clara)                                                | 
-| 2025/11  | [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)                                                                                                                                 | <img width="700" alt="image" src="img/text/2511_latent_mas.png">   | [Github](https://github.com/Gen-Verse/LatentMAS)                                           |
 
-### Visual-based
+### VLM-based
 
 | Date    | Paper Title                                                                                                                                                                | Introduction                                                      | Code                                                          |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|
@@ -88,6 +88,10 @@ Additionally, if you want to have any other issue, please add this wechat group.
 | 2025/11 | [Monet: Reasoning in Latent Visual Space Beyond Image and Language](https://arxiv.org/abs/2511.21395)                                                                      | <img width="700" alt="image" src="img/visual/2511_monet.png">     | [Github](https://github.com/NOVAglow646/)                     |
 
 
-
+### MAS-based
+| Date      | Paper Title                                                                                                                                               | Introduction                                                     | Code                                             |
+|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------|
+| 2025/10   | ![NeurIPS'25](https://img.shields.io/badge/NeurIPS'25-f1b800) <br/> [Thought Communication in Multiagent Collaboration](https://arxiv.org/abs/2510.20733) | <img width="700" alt="image" src="img/mas/2510_thoughtcomm.png"> | -                                                |
+| 2025/11   | [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)                                                                           | <img width="700" alt="image" src="img/mas/2511_latent_mas.png">  | [Github](https://github.com/Gen-Verse/LatentMAS) |
 
 
