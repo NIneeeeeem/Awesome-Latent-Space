@@ -112,7 +112,7 @@ Additionally, if you want to have any other issue, please add this wechat group.
 | 2025/12  | [Interleaved Latent Visual Reasoning with Selective Perceptual Modeling](https://arxiv.org/abs/2512.05665v1)                                                               | <img width="700" alt="image" src="img/vlm/2512_ilvr.png">      | [Github](https://github.com/XD111ds/ILVR)                     |
 | 2025/12  | [ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](https://www.arxiv.org/abs/2512.07558)                                                                | <img width="700" alt="image" src="img/vlm/2512_relax.png">     | -                                                             |
 | 2025/12  | [Mull-Tokens: Modality-Agnostic Latent Thinking](https://arxiv.org/abs/2512.10941)                                                                                         | <img width="700" alt="image" src="img/vlm/2512_mull.png">      | -                                                             |
-| 2025/12  | [Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space](https://arxiv.org/abs/2512.12623)                                                                                         | <img width="700" alt="image" src="img/vlm/2512_mind.png">      | -                                                             |
+| 2025/12  | [Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space](https://arxiv.org/abs/2512.12623)                                                                                         | <img width="700" alt="image" src="img/vlm/2512_mind.png">      | [Github](https://github.com/eric-ai-lab/DMLR)                                                             |
 
 
 ### MAS-based
